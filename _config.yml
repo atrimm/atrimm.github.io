@@ -230,8 +230,8 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
-      type: portfolio
+      path: "35.206.90.118"
+      type: wiki
     values:
       layout: single
       author_profile: true
