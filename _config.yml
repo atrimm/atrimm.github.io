@@ -182,9 +182,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  wiki:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:35.206.90.118/
   talks:
     output: true
     permalink: /:collection/:path/
