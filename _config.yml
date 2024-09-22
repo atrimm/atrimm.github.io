@@ -184,7 +184,7 @@ collections:
     permalink: /:collection/:path/
   wiki:
     output: true
-    permalink: /:collection/:35.206.90.118/
+    permalink: 35.206.90.118/
   talks:
     output: true
     permalink: /:collection/:path/
